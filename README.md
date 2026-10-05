@@ -8,13 +8,10 @@
 
 <br>
 
-## 💜 Sobre Mim
+##  Sobre Mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha carreira em Tecnologia da Informação.
+ Estudante de **Análise e Desenvolvimento de Sistemas**
 
-💻 Atualmente estudo **Python, SQL, Banco de Dados e Power BI**, além de desenvolver projetos acadêmicos.
-
-🎯 Busco minha **primeira oportunidade em TI** para aprender, evoluir e colocar meus conhecimentos em prática.
 
 ---
 
@@ -34,13 +31,7 @@
 
 ---
 
-## 🚀 Projetos
 
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO/calculadora-react-native">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=calculadora-react-native&theme=tokyonight&hide_border=true&title_color=C77DFF&icon_color=9D4EDD" />
-</a>
 
 </div>
 
