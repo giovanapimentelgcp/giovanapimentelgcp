@@ -3,8 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:7B2CBF,100:C77DFF&height=220&section=header&text=GIOVANA%20PIMENTEL&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%7C+SQL+%7C+Banco+de+Dados+%7C+Power+BI;Construindo+minha+carreira+em+Tecnologia+%F0%9F%92%9C" />
-
 </div>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%7C+SQL+%7C+Banco+de+Dados+%7C+Power+BI" />
 
