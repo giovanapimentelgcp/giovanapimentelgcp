@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <div align="center">
 
