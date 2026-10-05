@@ -10,9 +10,6 @@
 
 <br>
 
-##  Sobre Mim
-
- Estudante de **Análise e Desenvolvimento de Sistemas**
 
 
 ---
